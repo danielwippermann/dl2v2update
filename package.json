@@ -1,0 +1,15 @@
+{
+  "name": "dl2v2update",
+  "version": "0.2.0",
+  "description": "A private DL2 update server",
+  "main": "index.js",
+  "dependencies": {
+    "express": "^3.4.8"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Daniel Wippermann <danielwippermann@gmail.com>",
+  "license": "MIT"
+}
