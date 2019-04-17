@@ -52,21 +52,21 @@ your console:
 After that you need to download and unpack one or more of the firmware image bundles provided on RESOL's homepage:
 
 	# for DL2
-	wget http://cdn1.resol.de/firmware/RESOL_DL2-2.1.5-201602081156-Firmware.zip
+	wget https://cdn.resol.de/firmware/RESOL_DL2-2.1.5-201602081156-Firmware.zip
 	mkdir public/RESOL_DL2-2.1.5-201602081156-Firmware
 	cd public/RESOL_DL2-2.1.5-201602081156-Firmware
 	unzip ../../RESOL_DL2-2.1.5-201602081156-Firmware.zip
 	cd ../..
 
 	# for DL3
-	wget http://cdn1.resol.de/firmware/RESOL_DL3-2.1.5-201602080850-Firmware.zip
+	wget https://cdn.resol.de/firmware/RESOL_DL3-2.1.5-201602080850-Firmware.zip
 	mkdir public/RESOL_DL3-2.1.5-201602080850-Firmware
 	cd public/RESOL_DL3-2.1.5-201602080850-Firmware
 	unzip ../../RESOL_DL3-2.1.5-201602080850-Firmware.zip
 	cd ../..
 
 	# for KM1
-	wget http://cdn1.resol.de/firmware/RESOL_KM1-2.1.5-201602081152-Firmware.zip
+	wget https://cdn.resol.de/firmware/RESOL_KM1-2.1.5-201602081152-Firmware.zip
 	mkdir public/RESOL_KM1-2.1.5-201602081152-Firmware
 	cd public/RESOL_KM1-2.1.5-201602081152-Firmware
 	unzip ../../RESOL_KM1-2.1.5-201602081152-Firmware.zip
