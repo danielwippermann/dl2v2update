@@ -17,7 +17,7 @@ var config = {
 	/*
 	 * The webserver will start to listen on this TCP port for update queries.
 	 */
-	port: 3000,
+	port: process.env.PORT || 3000,
 };
 
 
