@@ -27,7 +27,7 @@ var publicDirectory = path.join(__dirname, './public');
 var app = express();
 
 
-app.use(express.logger('default'));
+// app.use(express.logger('default'));
 app.use(express.static(publicDirectory));
 
 
